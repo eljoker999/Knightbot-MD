@@ -9,29 +9,29 @@
 
 <div align="center"> 
   <a href="https://www.youtube.com/@ELGOKER-BOT-AM"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="ELGOKER-BOT" height="300"> 
+    <img src="https://github.com/eljoker999/ELGOKER-BOT-AM-/blob/main/assets/bot_image.jpg" alt="ELGOKER-BOT" height="300"> 
   </a> 
 </div>
 
 ---
 
-## 🚀 Steps to Deploy
+## 🚀 خطوات النشر
 
-### Step 1: Fork the Repository
+### الخطوة الأولى: تقسيم المستودع
 
 انقر على الزر أدناه لتقسيم مستودع ELGOKER BOT إلى حساب GitHub الخاص بك:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/eljoker999/ELGOKER-BOT-AM-/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
 
 ---
 
-### Step 2: Get Pair Code
+### الخطوة الثانية: الحصول على رمز الزوج
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+ثبّت البوت واربطه بسهولة بحسابك على واتساب باستخدام رمز الزوج. انقر على الزر أدناه لنشر البوت على Replit.
 
 <div align="center">
   <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1">
@@ -46,13 +46,13 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 </div>
 
 
-### After getting creds.json file, upload it to session folder
+### بعد الحصول على ملف creds.json، ارفعه إلى مجلد الجلسة.
 
 ---
 
-### Step 3: Deploy Now
+### الخطوة 3: النشر الآن
 
-For further customization and setup guidance, click the button below:
+للحصول على إرشادات إضافية حول التخصيص والإعداد، انقر على الزر أدناه:
 
 <div align="center">
   <a href="https://youtu.be/dDyiEHF8rIQ">
@@ -64,7 +64,7 @@ For further customization and setup guidance, click the button below:
 </div>
 
 
-### Deploy Now on Below Panel
+### قم بالنشر الآن على اللوحة أدناه
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
@@ -77,46 +77,42 @@ For further customization and setup guidance, click the button below:
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+  <a href="### انشر الآن على اللوحة أدناه https://whatsapp.com/channel/0029Vb5DF3H59PwKojA8O701">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
 ---
 
-## ⚙️ Features
+## ⚙️ الميزات
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+- **إضافة وسم لجميع أعضاء المجموعة** باستخدام أمر `.منشن`
+- **استخدام مقيد من قِبل الإدارة** (يُسمح فقط لمديري المجموعة باستخدام أوامر مُحددة)
+- **ألعاب** مثل لعبة "إكس أو" للتفاعل الجماعي `
+- **استخدام مقيد من قِبل الإدارة** (يُسمح فقط لمديري المجموعة باستخدام أوامر مُحددة)
+- **ألعاب** مثل لعبة "إكس أو" للتفاعل الجماعي
 
 ---
 
-## 📖 About
+## 📖 نبذة
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+يساعد بوت GOKER WhatsApp مديري المجموعات بتزويدهم بأدوات لإدارة مجموعات WhatsApp الكبيرة بكفاءة. يستخدم البوت مكتبة Baileys للتفاعل مع تطبيق WhatsApp Web AP.
 
 ---
 
-## 🛠️ Setup & Installation
+## 🛠️ الإعداد والتثبيت
 
-### Prerequisites
+### المتطلبات الأساسية
 
-- Node.js installed on your system
-- Git installed (for cloning the repository)
+- تثبيت Node.js على نظامك
+- تثبيت Git (لاستنساخ المستودع)
 
-### Step-by-Step Setup
+### الإعداد خطوة بخطوة
 
-1. **Clone the repository:**
+1. **استنساخ المستودع:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
+    git clone https://github.com/eljoker999/ELGOKER-BOT-AM-.git
     cd Knightbot-MD
     ```
 
@@ -132,62 +128,42 @@ It is lightweight and can be easily customized to add more commands as per your 
     node index.js
     ```
 
-4. **Scan the QR code:**
+4. **امسح رمز الاستجابة السريعة:**
 
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+بمجرد تشغيل البوت، سيظهر رمز الاستجابة السريعة في الجهاز. امسح رمز الاستجابة السريعة هذا باستخدام ميزة "الأجهزة المرتبطة" في واتساب لربط حساب واتساب الخاص بك بالبوت.
 
----
+--
 
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+هذا المشروع مرخص بموجب [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/eljoker999/ELGOKER-BOT-AM-/blob/main/LICENSE) file for details.
 
 ---
 
-## 🙌 Contributions
+## 🙌 المساهمات
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+نرحب بالمساهمات، والأعداد، وطلبات الميزات! لا تترددوا في زيارة [issues page](https://github.com/eljoker999/ELGOKER-BOT-AM-/issues).
 
 ---
 
-## 🌟 Show your support
+## 🌟 أظهر دعمك
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+إذا أعجبك هذا المشروع، يُرجى دعمه [⭐️ star on GitHub](https://github.com/eljoker999/ELGOKER-BOT-AM-)!
 
 
-## Credits
+## الاعتمادات
 
-- [Professor](https://github.com/mruniquehacker)
+- [ELGOKER](https://github.com/eljoker999)
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
 
 ---
 
-## ⚠️ Important Warning
+## ⚠️ تحذير هام
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+**ملاحظة:** هذا البوت مُصمم لأغراض تعليمية فقط. هذا ليس بوت واتساب رسميًا. قد يؤدي استخدام هذا البوت إلى حظر حسابك على واتساب. استخدمه الآن.
 
-## 📝 Legal
+جميع الحقوق محفوظة © ٢٠٢٤ للأستاذ.
 
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2024 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+يحتوي هذا المشروع على شيفرة من مشاريع مفتوحة المصدر متنوعة:
+- Baileys (رخصة معهد ماساتشوستس للتكنولوجيا)
+- مكتبات أخرى مدرجة في package.json
