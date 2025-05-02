@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <a href="https://www.youtube.com/@ELGOKER-BOT-AM"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="ELGOKER-BOT" height="300"> 
   </a> 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+انقر على الزر أدناه لتقسيم مستودع ELGOKER BOT إلى حساب GitHub الخاص بك:
 
 <div align="center">
   <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
