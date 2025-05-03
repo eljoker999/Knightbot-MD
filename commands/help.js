@@ -15,7 +15,7 @@ async function helpCommand(sock, chatId, channelLink) {
 
 ╔═══════════════════╗
 🌐 *General Commands*:
-║ ➤ .help or .menu
+║ ➤ .اوامر or .قائمة
 ║ ➤ .ping
 ║ ➤ .alive
 ║ ➤ .tts <text>
